@@ -1,6 +1,6 @@
 {
-  "name": "OpenSea Creatures",
-  "description": "OpenSea Creatures are adorable aquatic beings primarily for demonstrating what can be done using the OpenSea platform. Adopt one today to try out all the OpenSea buying, selling, and bidding feature set.",
+  "name": "My own mainnet collection",
+  "description": "This is the mainnet collection and should have royalty distribution with opensea enforcement.",
   "image": "external-link-url/image.png",
   "external_link": "external-link-url",
   "seller_fee_basis_points": 1000,
