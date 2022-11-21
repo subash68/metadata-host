@@ -1,8 +1,8 @@
 {
-  "name": "My own mainnet collection",
-  "description": "This is the mainnet collection and should have royalty distribution with opensea enforcement.",
-  "image": "external-link-url/image.png",
-  "external_link": "external-link-url",
-  "fees": 1000,
-  "payout_address": "0x4db8bcCF4385C7AA46F48eb42f70FA41Df917b44"
+  "name": "OpenSea Creatures",
+  "description": "OpenSea Creatures are adorable aquatic beings primarily for demonstrating what can be done using the OpenSea platform. Adopt one today to try out all the OpenSea buying, selling, and bidding feature set.",
+  "image": "https://openseacreatures.io/image.png",
+  "external_link": "https://openseacreatures.io",
+  "seller_fee_basis_points": 100, 
+  "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721"
 }
