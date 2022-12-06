@@ -1,8 +1,24 @@
 {
-  "title": "Test Collection",
-  "description": "This is test collection description based on data stored.",
-  "image": "https://openseacreatures.io/image.png",
-  "external_link": "https://openseacreatures.io",
-  "seller_fee_basis_points": 100, 
-  "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721"
+	"name": "Asset Name",
+	"description": "Lorem ipsum...",
+	"image": "https:\/\/s3.amazonaws.com\/your-bucket\/images\/{id}.png",
+	"properties": {
+		"simple_property": "example value",
+		"rich_property": {
+			"name": "Name",
+			"value": "123",
+			"display_value": "123 Example Value",
+			"class": "emphasis",
+			"css": {
+				"color": "#ffffff",
+				"font-weight": "bold",
+				"text-decoration": "underline"
+			}
+		},
+		"array_property": {
+			"name": "Name",
+			"value": [1,2,3,4],
+			"class": "emphasis"
+		}
+	}
 }
